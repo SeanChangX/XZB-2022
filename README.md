@@ -9,4 +9,7 @@
  /_/ \_\/_____|____/    |____|\___/____|____| ©
                                              
 ```                                          
+
 For Educational Purposes Only
+
+![GitHub all releases](https://img.shields.io/github/downloads/SeanChangX/XZB-2022/total)
